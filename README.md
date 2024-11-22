@@ -1,1 +1,1 @@
-Hello World from Composer!
+Hello World
